@@ -1,0 +1,5 @@
+bs 9 0,bs 9 0,as 6 0,as 6 0,as 6 0,as 6 0
+bs 9 0,bs 9 0,as 6 0,as 6 0,as 6 0,as 6 0
+bs 9 0,bs 9 0,as 6 0,as 6 0,as 3 0,as 6 0
+as 5 0,as 5 0,as 6 0,as 3 0,ai 3 1,as 3 0
+cs 5 0,as 5 0,as 6 0,as 3 0,as 3 0,as 3 0

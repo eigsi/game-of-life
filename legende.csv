@@ -1,0 +1,10 @@
+code,valeur,image
+as,1,images/nerf-A.png
+ai,2,images/nerf-A_infecte.png
+am,3,images/nerf-A_mort_infecte.png
+aM,4,images/nerf-A_mort.png
+bs,5,images/nerf-B.png
+bi,6,images/nerf-B_infecte.png
+bm,7,images/nerf-B_mort_infecte.png
+bM,8,images/nerf-B_mort.png
+cs,9,images/nerf-C_immunise.png
